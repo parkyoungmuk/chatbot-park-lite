@@ -93,7 +93,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Chatbot UI, an AI assistant. I can help you with things like answering questions, providing information, and helping with tasks. How can I help you?`
+        content: '안녕하세요. 저는 버프AI입니다. 무엇을 도와드릴까요?'
       }
     ]);
   }, []);
